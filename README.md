@@ -22,4 +22,3 @@
 <p>Blockquoted text looks like this: <blockquote> This is the blockquote</blockquote>
 <h2>Code</h2>
 <p>Compuer code text looks like this:<code> (in code)</code> This is code.</p>
-</html>
